@@ -2,5 +2,6 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <asp:Button ID="Button1" runat="server" Text="Button" />
+    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
 </asp:Content>
 
